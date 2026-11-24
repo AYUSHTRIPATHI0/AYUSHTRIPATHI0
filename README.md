@@ -2,6 +2,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Ayush%20Tripathi&fontSize=44&fontAlignY=36&desc=Full-Stack%20MERN%20Developer%20%E2%80%A2%20Founder%20%40%20sitekraft.dev&descAlignY=56&descAlign=50&animation=fadeIn" width="100%" />
 
+  <br/>
+
+  <!-- Circular Profile Avatar -->
+  <a href="https://github.com/AYUSHTRIPATHI0">
+    <img src="https://raw.githubusercontent.com/AYUSHTRIPATHI0/AYUSHTRIPATHI0/main/assets/ayush-avatar.png" width="155" height="155" alt="Ayush Tripathi" />
+  </a>
+
+  <br/><br/>
+
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Namaste!+I%27m+Ayush+Tripathi;Full-Stack+MERN+%26+Next.js+Developer+%F0%9F%92%BB;Founder+%40+sitekraft.dev+%F0%9F%9A%80;Building+Fast%2C+Scalable+Modern+Web+Apps+%E2%9A%A1;Hackathon+Builder+%26+Tech+Innovator+%F0%9F%8F%86" alt="Typing SVG" />
